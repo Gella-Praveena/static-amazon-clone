@@ -1,0 +1,1 @@
+"Welcome to our static Amazon clone! This project replicates the user interface of Amazon using HTML and CSS. Explore various sections like product listings, cart functionality, and checkout. Designed to showcase frontend skills, this clone provides a glimpse into the Amazon shopping experience. Dive in and enjoy!"
